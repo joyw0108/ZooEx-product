@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    background-color: #050301;
+    width: 59%;
+    height: 142px;
+    margin-top: 50px;
+    margin-left: -36%;
+    margin-bottom: 45px;
+    border: 1px dashed pink;
+}
+
+.title {
+    color: white;
+}

@@ -1,0 +1,14 @@
+.container {
+    background-color: #050301;
+    width: 95%;
+    height: 595px;
+    margin-top: 50px;
+    margin-bottom: 0;
+    border: 1px dashed pink;
+}
+
+.title {
+    color: white;
+    font-size: 20px;
+    border: 1px dashed pink;
+}
